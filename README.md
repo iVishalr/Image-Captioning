@@ -2,7 +2,7 @@
 ___
 Implementation of a Image Captioning Model using Transfer Learning and Recurrent Neural Networks
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/iVishalr/Image-Captioning/Notebook/Image-Captioning.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/iVishalr/Image-Captioning/Notebook/Image Captioning.ipynb)
 
 ## Requirements
 ___
