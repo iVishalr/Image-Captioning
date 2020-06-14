@@ -265,7 +265,7 @@ def beam_search_predictions(image, beam_index = 3):
     final_caption = ' '.join(final_caption[1:])
     return final_caption
 
-try_image = "dog.jpeg"
+try_image = "images/dog.jpeg"
 Image.open(try_image)
 
 print ('Normal Max search:', predict_captions(try_image)) 
