@@ -15,6 +15,8 @@ The following libraries are required to run the code :
   6. Matplotlib
   7. Tqdm
 
+The above mentioned packages can be installed by executing ```pip install -r requirements.txt```
+
 ### Dataset
 ___
 
