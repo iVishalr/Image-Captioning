@@ -42,6 +42,17 @@ Email ID : *vishalramesh01[at]gmail.com*
 
 *NOTE : The model weights will not be given to everyone. The chances of getting one will be based on your contributions to the       project.*
 
+### Results
+___
+
+![alt person](https://github.com/iVishalr/Image-Captioning/blob/master/images/person.jpeg?raw=true) 
+
+Generated Caption : *A man is standing on a snow covered mountain.*
+
+![alt dog](https://github.com/iVishalr/Image-Captioning/blob/master/images/dog.jpeg?raw=true)
+
+Generated Caption : *A brown dog is running towards the camera with a stick in its mouth.*
+
 ### References
 ___
 
